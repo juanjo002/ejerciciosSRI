@@ -2,8 +2,9 @@
 
 Tema 0 | Introducción
 -----------------|-----------------
-[ejercicio 1]() | cosas
-[ejercicio 2]()| más cosas
+[ejercicio 1]() | crea un servidor con python
+[ejercicio 2]()| crea un servidor con python
+[ejercicio 3]() | crea un servidor dummy con python
 
 Tema 1 | A
 ----|----
