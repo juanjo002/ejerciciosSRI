@@ -15,4 +15,13 @@ A continuación instalamos php
 creamos el directorio para el primer dominio
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/60d9d6c6-4070-4816-af52-3dbd0fd93da6)
 
-Una vez tenemos listos apache, mysql y php pasamos a instalar wordpress, para ello lo primero que haremos es entrar a mysql como administrador
+Una vez tenemos listos apache, mysql y php pasamos a instalar wordpress, para ello lo primero que haremos es acceder a mysql como root:
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/ddf6928e-70da-4998-a1c1-9672704a2793)
+Ahora creamos la base de datos que necesitaremos para utilizar wordpress
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/00274a4f-ecf7-4da3-8e80-0489c56b57a4)
+
+Ahora creamos un usuario que usaremos para gestionar todo lo relacionado con wordpress y le damos permisos
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/9c689380-31b1-48c2-8545-d131efc8a332)
+
+Ahora habilitamos reemplazos .htaccess
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/5312f4d1-dbc7-499a-a520-605596da5711)
