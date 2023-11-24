@@ -40,4 +40,22 @@ tengo que cambiar el nombre del primer dominio de dominio1 a centro.intranet ya 
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/149cb2ca-5545-491b-a43b-36578cae93a7)
 
+Ahora habilito el módulo de escritura
 
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/f7319cd9-f2df-43ce-93d8-6a8484eb274f)
+
+Una vez hecho todo esto ya podemos instalar wordpress, empezamos por descargarlo y descomprimirlo para crear la estructura de archivos de wordpress
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/0e4bca6d-0047-48e8-be5e-b20d6b432d58)
+
+Ahora creamos un archivo .htaccess para que wordpress lo utilice, también copiamos sobre el archivo de configuración de muestra al nombre de archivo que lee WordPress
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/8aa221d3-f851-4774-a4e1-bbec7338c75b)
+
+Ahora creamos la carpeta de actualización para wordpress 
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/5589de06-91fb-493a-9704-551b37f19f82)
+
+Una vez hecho esto copiamos todos los archivos a nuestra carpeta centro.intranet
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/f14b6c4a-9533-4a1f-9854-e0c190f77ff8)
