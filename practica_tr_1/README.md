@@ -59,3 +59,31 @@ Ahora creamos la carpeta de actualización para wordpress
 Una vez hecho esto copiamos todos los archivos a nuestra carpeta centro.intranet
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/f14b6c4a-9533-4a1f-9854-e0c190f77ff8)
+
+Ahora realizamos los ajustes de propiedad y permisos
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/8c06a8f7-f05c-48af-acfb-70434fcecd84)
+
+A continuación, ejecutaremos dos comandos find para establecer los permisos correctos de los directorios y archivos de WordPress
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/50ad075e-9280-4c10-a5b0-93e8493330ba)
+
+editamos el archivo de configuración de wordpress, para esto lo primero que hacemos es generar valores seguros de claves
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/8532c9c8-c07a-40af-9dc5-164fdfc9cddd)
+
+Ahora utilizamos estas claves en nuestro archivo de configuración
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/3f217565-8a1f-43bd-8052-6691a8b91bff)
+
+Ahora completamos la instalación a traves de la interfaz web
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/d95e7f36-d74b-4db3-8e4e-2b2f7423c1e6)
+
+y ya tenemos wordpress en el primer dominio:
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/1557393f-f241-4b29-8fc2-80667dcee021)
+
+Ahora pasamos a instalar wsgi
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/9ca0e25e-37dc-4c04-ba82-3da18b9794ef)
