@@ -87,3 +87,9 @@ y ya tenemos wordpress en el primer dominio:
 Ahora pasamos a instalar wsgi
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/9ca0e25e-37dc-4c04-ba82-3da18b9794ef)
+
+una vez tenemos instalado wsgi nos preparamos para crear nuestra aplicación python, para ello lo primero que hacemos es crear los directorios para la estructura
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/ea9129ad-9f89-456f-81c1-62759e85aae8)
+
+
