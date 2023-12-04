@@ -102,4 +102,9 @@ Creamos un archivo que gestione todas las peticiones del usuario
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/963b8f69-5c69-471a-8a35-26fcb9098472)
 
+Lo proximo que tenemos que hacer es configurar el virtual host
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/8724d1c3-9cc4-4db8-badd-4d97f27d254e)
+
+Una vez configurado nuestro virtual host habilitamos el sitio web
 
