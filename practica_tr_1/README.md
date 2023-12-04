@@ -92,4 +92,14 @@ una vez tenemos instalado wsgi nos preparamos para crear nuestra aplicación pyt
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/ea9129ad-9f89-456f-81c1-62759e85aae8)
 
+También crearemos una carpeta en la almacenaremos los log de errores
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/9d25be6f-51a2-499b-bb32-15b31f3a8be4)
+
+Creamos un archivo que gestione todas las peticiones del usuario
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/3fd91bab-47f9-4757-a214-99d666663c96)
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/963b8f69-5c69-471a-8a35-26fcb9098472)
+
 
