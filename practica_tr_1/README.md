@@ -108,3 +108,28 @@ Lo proximo que tenemos que hacer es configurar el virtual host
 
 Una vez configurado nuestro virtual host habilitamos el sitio web
 
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/1f7b704e-3e3f-43f2-bb9c-e3784ffdf979)
+
+Ahora agregamos la nueva dirección dentro de el archivo hosts
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/dc88991a-c68d-49c7-97ec-4dc5264e20ec)
+
+Y con esto ya podriamos acceder escribiendo en el buscador "http://python-web"
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/d4f51f5e-0e6c-428d-a04c-5eaefec8a10c)
+
+Ahora pasamos a proteger la aplicación python con autenticación, para ello lo primero que tenemos que hacer es instalar las utilidades de apache
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/8c5786e1-2b9f-462e-a927-ddca3a8f42b2)
+
+Ahora creamos un archivo de contraseñas
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/fbe93533-6a0b-4587-96b6-cb13ff660b98)
+
+Después configuramos el control de acceso dentro del host virtual
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/c6a02a09-2d0d-47dd-a33a-ec2ef68e1f5d)
+
+Y ya estaría funcionando
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/82238baa-3e17-4af4-9937-2cad5a0b5167)
