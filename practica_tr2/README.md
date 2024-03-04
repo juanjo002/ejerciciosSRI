@@ -70,3 +70,11 @@ Ahora configuramos filezilla para entrar utilizando este certificado:
 
 Permitimos los protocolos pop3 e imap en dovecot
 
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/774fd03c-a352-49a5-a481-6d8b30ec7eef)
+
+Comprobamos que ssl está activado para dovecot
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/80e6be38-fe1f-4cc9-bf73-353d56557bf5)
+
+Script:
+
