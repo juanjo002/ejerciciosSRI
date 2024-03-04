@@ -52,6 +52,12 @@ Configuramos postfix:
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/e62a1f66-a955-4dd3-8570-dff9660a6853)
 
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/3b0d1983-3d56-45cf-a982-885b570756c1)
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/48027d0b-69d7-4e0b-b6a8-8518c806ddef)
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/26ac8ffe-b6f6-499a-8c5f-fc0d3ebf9072)
+
 Generamos certificado ssl:
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/c9491a55-56e6-41f2-a67b-48e77cfd4792)
@@ -59,4 +65,8 @@ Generamos certificado ssl:
 Ahora configuramos filezilla para entrar utilizando este certificado:
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/f9ec8cce-3f5c-4785-b44a-75193a19c1a6)
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/1f72e2ba-87d2-4c8a-9cb8-adda98148e17)
+
+Permitimos los protocolos pop3 e imap en dovecot
 
