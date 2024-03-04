@@ -16,3 +16,6 @@ Ahora instalamos el servidor mysql con "sudo apt install mysql-server"
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/86886815-cbdb-4789-81b1-a6b97e8b6d7e)
 
+Ahora instalo el administrador de php con "sudo apt install phpmyadmin"
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/1511a443-4408-4193-bc85-372c782fb4f5)
