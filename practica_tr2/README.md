@@ -35,3 +35,28 @@ OpenSsl con "sudo apt-get install openssl"
 Filezilla con "sudo apt-get install filezilla"
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/c929dd3e-4c6a-4b50-a805-4445224dc8e0)
+
+Postfix con "sudo apt-get install postfix"
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/26d7c90a-2b56-4791-9975-e7c0d9e0f87c)
+
+Dovecot con "sudo apt-get install dovecot-imapd dovecot-pop3d"
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/a6865a3b-fc61-4301-b809-bebd7ec3e13c)
+
+configuración
+
+Configuramos postfix:
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/49ae752b-4ede-4979-b552-6312261d21f7)
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/e62a1f66-a955-4dd3-8570-dff9660a6853)
+
+Generamos certificado ssl:
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/c9491a55-56e6-41f2-a67b-48e77cfd4792)
+
+Ahora configuramos filezilla para entrar utilizando este certificado:
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/f9ec8cce-3f5c-4785-b44a-75193a19c1a6)
+
