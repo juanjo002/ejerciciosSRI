@@ -32,3 +32,6 @@ OpenSsl con "sudo apt-get install openssl"
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/1c68bb71-03eb-4ffb-b5fa-5615e23da8e1)
 
+Filezilla con "sudo apt-get install filezilla"
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/c929dd3e-4c6a-4b50-a805-4445224dc8e0)
