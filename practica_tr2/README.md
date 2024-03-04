@@ -19,3 +19,16 @@ Ahora instalamos el servidor mysql con "sudo apt install mysql-server"
 Ahora instalo el administrador de php con "sudo apt install phpmyadmin"
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/1511a443-4408-4193-bc85-372c782fb4f5)
+
+Después instalamos el modulo de python para apache con "sudo apt-get install libapache2-mod-wsgi-py3"
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/66e3b2f4-918d-4d53-8aaa-196714b16a53)
+
+Ahora instalamos ProFtpd con "sudo apt-get install proftpd"
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/3bd2ed2b-49a7-435f-a512-60ed457723d3)
+
+OpenSsl con "sudo apt-get install openssl"
+
+![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/1c68bb71-03eb-4ffb-b5fa-5615e23da8e1)
+
