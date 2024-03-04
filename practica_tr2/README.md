@@ -1,4 +1,4 @@
-#Instalaciones
+# Instalaciones
 
 Lo primero será instalar los programas que vamos a necesitar:
 
@@ -46,7 +46,7 @@ Dovecot con "sudo apt-get install dovecot-imapd dovecot-pop3d"
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/a6865a3b-fc61-4301-b809-bebd7ec3e13c)
 
-#configuración
+# configuración
 
 Configuramos postfix:
 
@@ -78,7 +78,7 @@ Comprobamos que ssl está activado para dovecot
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/80e6be38-fe1f-4cc9-bf73-353d56557bf5)
 
-#Script:
+# Script:
 
 ```bash
 #!/bin/bash
