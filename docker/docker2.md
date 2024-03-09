@@ -9,6 +9,3 @@ mostramos las imágenes instaladas:
 mostramos los contenedores:
 
 ![image](https://github.com/juanjo002/ejerciciosSRI/assets/122454341/394125b0-dbbe-40a4-85ba-fec2dff1d27f)
-
-Ahora editamos el dockerfile, para ello lo primero que vamos a hacer es clonar el repositorio
-
